@@ -4260,3 +4260,11 @@ blockquote:before {
 blockquote p {
   display: inline;
 }
+
+
+.alert {
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+
