@@ -398,7 +398,7 @@ header .icon .btn-primary:active:hover{
 	height:14px;
 	box-shadow: inset -2px -2px 4px rgba(0,0,0,0.3);
 }
-.slideshow .owl-buttons .owl-prev{
+/*.slideshow .owl-buttons .owl-prev{
 	left:65px ; 
 }
 .slideshow .owl-buttons .owl-next{
