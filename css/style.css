@@ -372,7 +372,7 @@ header .icon .btn-primary:active:hover{
 	padding:10px 24px;
 	border-radius:4px;
 }
-/*.slideshow .owl-pagination {
+.slideshow .owl-pagination {
     top: auto;
 	bottom:15px;
 	position:absolute;
@@ -391,7 +391,7 @@ header .icon .btn-primary:active:hover{
 	width:14px;
 	box-shadow: inset -2px 2px 4px -2px rgba(0,0,0,0.3);
 }
-.slideshow .owl-controls .owl-page.active span {
+/*.slideshow .owl-controls .owl-page.active span {
     background: #DFAE08;
 	border:3px solid #fff;
 	width:14px;
@@ -419,7 +419,7 @@ header .icon .btn-primary:active:hover{
 }
 .slideshow .owl-buttons div {
     opacity:1 ;
-}
+}*/
 /*------------------------- 
 [ commontop / .commontop ]
 --------------------------- */
